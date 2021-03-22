@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-
-![Uploading Screenshot 2021-03-22 at 12.54.15.png…]()
 Hello everyone! I am 14 years old, from Germany, who loves to code!
 
 *Skills: VUE JS / REACT / JS / HTML / CSS / Python / Game Development / Flutter*
