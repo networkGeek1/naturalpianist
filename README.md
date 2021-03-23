@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+![hello-world-code-vector-22928146](https://user-images.githubusercontent.com/70337438/112129690-f5970500-8bc7-11eb-87ee-a5f7a56729a3.png)
+
 Hello everyone! I am 14 years old, from Germany, who loves to code!
 
 *Skills: VUE JS / REACT / JS / HTML / CSS / Python / Game Development / Flutter*
