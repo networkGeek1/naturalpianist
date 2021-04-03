@@ -3,7 +3,7 @@
 
 Hello everyone! I am 14 years old, from Germany, who loves to code!
 
-*Skills: VUE JS / REACT / JS / HTML / CSS / Python / Game Development / Flutter*
+*Skills: HTML / CSS / Python / GDScript / Flutter / C++*
 
 
 
