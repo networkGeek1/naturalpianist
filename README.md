@@ -7,7 +7,7 @@ Hello everyone! I am a programmer, from Germany, who loves to code!
 
 
 
-- 🔭 I’m currently working on I’m currently programming my platformer game in GDScript and the Godot Engine  
+- 🔭 I’m currently working on my platformer game in GDScript and the Godot Engine  
 - 🌱 I’m currently learning I’m also learning Flutter for App Development. 
 - 📫 How to reach me: You can join my Discord Server: https://discord.gg/zJkKCfmKJx or even contact me: networkGeek1@hotmail.com
 
